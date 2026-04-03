@@ -1,0 +1,4 @@
+[tools]
+bun = "latest"
+docker-cli = "latest"
+flyctl = "latest"
